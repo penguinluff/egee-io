@@ -1,0 +1,30 @@
+title:               Egee.io
+tagline:             'Be Different. Play Together.'
+description:         'Egee.io is a community for everyone to be different and play together!'
+url:                 https://egee.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:           egee
+  url:            https://egee.xyz
+
+# Gems
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- .jekyll-cache
+- .gitignore
+- .editorconfig
+
+# Custom vars
+# prod:                       false
