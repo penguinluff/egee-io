@@ -1,7 +1,6 @@
 ---
 title: Discord
 layout: page
-permalink: discord
 ---
 
 The [Egee.io Discord server](https://discord.gg/EMbcgR8) is the nexus for the community!

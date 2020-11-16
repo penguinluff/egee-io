@@ -1,7 +1,6 @@
 ---
 title: Rust
 layout: page
-permalink: rust
 ---
 
 The Rust server is a 24/7 casual solo/duo friendly server hosted on the West Coast of the US.
