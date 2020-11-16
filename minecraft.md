@@ -1,6 +1,7 @@
 ---
 title: Minecraft
 layout: page
+permalink: minecraft
 ---
 
 The Egee.io [Minecraft server](https://www.planetminecraft.com/server/egee-io/) is our oldest game server! It launched in 2016 as a private co-op/event server. It was made public and has maintained near 24/7 uptime ever since!

@@ -1,6 +1,7 @@
 ---
 title: Garry's Mod
 layout: page
+permalink: gmod
 ---
 
 Our Garry's Mod server is a purpose-built event server to accomodate spontaneous random events!

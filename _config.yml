@@ -4,7 +4,6 @@ description:         'Egee.io is a community for everyone to be different and pl
 url:                 https://egee.io
 baseurl:             ''
 paginate:            5
-permalink:           pretty
 
 # About/contact
 author:
