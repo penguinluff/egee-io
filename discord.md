@@ -3,22 +3,27 @@ title: Discord
 layout: page
 ---
 
-The [Egee.io Discord server](https://discord.gg/EMbcgR8) is the nexus for the community!
+The Discord server is like a nexus for the community. We host game servers, virtual events, and occasionally attend local conventions together!
 
-Our Discord server is closely moderated to ensure everyone feels safe and has a good time.
+We're an inclusive community server and welcome everyone!
 
-The Admin role in our Discord is `titans` and current roster of admins are:
+In addition to the Discord [TOS](https://discord.com/terms) and [guidelines](https://discord.com/guidelines), we have the following community rules:
 
-* egeeirl
-* penguinluff
-* Teal1500
-* m00ch
+* Respect preferences & pronouns.
+* No offensive speech, bigotry, or trolling.
+* No obsene or NSFW/NSFL posts.
+* Do not derail topics or filibuster.
+* Do not discuss or post illegal topics (including piracy).
 
-Everyone is welcome to join as long as they follow these rules:
+And some Discord-specific rules:
 
-* Discord [TOS](https://discord.com/terms) and [guidelines](https://discord.com/guidelines) apply here. (TL;DR: no illegal stuff, doxxing, or users under the age of 13.)
-* No hate speech, bigotry, or deliberate trolling.
+* @ roles with care.
+* Report issues to admins (demigod role).
+* No media posts in #general
+* #general is rated PG. Assume other channels are PG-13.
 * Keep conversation topics in their respective channels.
-* Keep discussions & posts reasonably appropriate for all age groups; No NSFW/NSFL.
+  * (not everyone is a furry, not everyone knows Linux, etc)
+
+Click [here](https://discord.gg/EMbcgR8) or on the widget at the bottom to join!
 
 <iframe src="https://discordapp.com/widget?id=183740337976508416&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
